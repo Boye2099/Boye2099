@@ -18,8 +18,6 @@ I learn best by actually building and testing things. You'll find a mix of Pytho
 
 I'm particularly interested in SOC/Blue Team, network security, vulnerability assessment, and enterprise security.
 
-📚 Currently Learning Network security Security monitoring Linux security Web application security Python for cybersecurity Practical vulnerability assessment 
-
 🤝 Let's Connect 
 
 I'm always interested in learning from other people in cybersecurity and technology and connecting with people working in the field.
