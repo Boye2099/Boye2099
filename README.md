@@ -11,7 +11,7 @@ Cybersecurity: Vulnerability Assessment, Web Security, OWASP Top 10, Threat Mode
 
 🚀 Projects 
 
-I'm using this GitHub to document projects and labs that reflect what I'm learning, including:
+I'm using this GitHub to document projects and labs that reflect what I'm learning.
 
 🧪 How I Learn 
 
