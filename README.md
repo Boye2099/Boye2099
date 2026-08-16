@@ -1,6 +1,6 @@
 Hi, I'm Adeboye 👋 
 
-I'm a Computer Science student at Babcock University with a growing focus on cybersecurity and network security.
+I'm a Computer Science student at Babcock University with a growing focus on cybersecurity and Cloud Engineering.
 
 I got interested in cybersecurity because I enjoy understanding how systems work, finding where things can go wrong, and figuring out how they can be made more secure. Most of my learning so far has been hands-on, working with Linux, analyzing network traffic, testing vulnerabilities, and building small security projects.
 
