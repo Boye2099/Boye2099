@@ -1,29 +1,45 @@
-Hi, I'm Adeboye 👋 
+# Adeboye Moradeyo
 
-I'm a Computer Science student at Babcock University with a growing focus on Cybersecurity and Cloud Engineering.
+### Computer Science Student | Cybersecurity | Networking | Backend | Cloud
 
-I got interested in cybersecurity because I enjoy understanding how systems work, finding where things can go wrong, and figuring out how they can be made more secure. Most of my learning so far has been hands-on, working with Linux, analyzing network traffic, testing vulnerabilities, and building small security projects.
+I'm a 300-level Computer Science student at Babcock University with a strong interest in cybersecurity, networking, backend development, and cloud infrastructure.
 
-🔐 What I Work With 
+I enjoy building practical projects and learning through hands-on work. My current focus is developing a solid foundation across security, systems, and software development while gaining experience with real-world technologies and workflows.
 
-Programming: Python, Java, C++ 
-Cybersecurity: Vulnerability Assessment, Web Security, OWASP Top 10, Threat Modeling Networking: TCP/IP, HTTP, Network Traffic Analysis, Firewalls Tools: Wireshark, Nmap, Dirb/Dirbuster, Docker, Git Platforms: Linux (Ubuntu/Kali), VS Code
+### Technical Skills
 
-🚀 Projects 
+* **Languages:** Python, Java
+* **Cybersecurity:** Network Security, Security Monitoring, Vulnerability Assessment
+* **Networking:** TCP/IP, DNS, Network Traffic Analysis, Nmap, Wireshark
+* **Systems:** Linux, Windows
+* **Backend:** Python, FastAPI, REST APIs
+* **Infrastructure:** Docker, Cloud Technologies
+* **Tools:** Git, GitHub, VirtualBox
 
-I'm using this GitHub to document projects and labs that reflect what I'm learning.
+### Projects
 
-🧪 How I Learn 
+I use this profile to document projects, labs, and experiments related to cybersecurity, networking, software development, and infrastructure.
 
-I learn best by actually building and testing things. You'll find a mix of Python projects, security labs, network analysis, and experiments here as I continue developing my skills.
+Some of my work includes:
 
-I'm particularly interested in SOC/Blue Team, network security, vulnerability assessment, and enterprise security.
+* Network traffic analysis and security monitoring
+* Python-based security tools and automation
+* Cybersecurity labs and practical exercises
+* Backend and API projects
+* Linux and Docker-based projects
 
-🤝 Let's Connect 
+### Currently Learning
 
-I'm always interested in learning from other people in cybersecurity and technology and connecting with people working in the field.
+I'm currently expanding my knowledge in:
 
-LinkedIn: linkedin.com/in/adeboye-moradeyo
+* Cybersecurity and network security
+* Backend development
+* Cloud infrastructure
+* Docker and DevSecOps
+* Security automation with Python
 
-Email: adeboyemoradeyo@gmail.com
+### Connect With Me
 
+**LinkedIn:** [linkedin.com/in/adeboye-moradeyo/](https://linkedin.com/in/adeboye-moradeyo/)
+
+I'm open to internship opportunities, technical projects, and opportunities to learn and contribute to a team.
