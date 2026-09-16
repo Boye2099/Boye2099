@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Cybersecurity | Networking | Backend | Cloud
 
-I'm a 300-level Computer Science student at Babcock University with a strong interest in cybersecurity, networking, backend development, and cloud infrastructure.
+I'm a  Computer Science student at Babcock University with a strong interest in cybersecurity, networking, backend development, and cloud infrastructure.
 
 I enjoy building practical projects and learning through hands-on work. My current focus is developing a solid foundation across security, systems, and software development while gaining experience with real-world technologies and workflows.
 
