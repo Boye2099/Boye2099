@@ -1,6 +1,6 @@
 # Adeboye Moradeyo
 
-### Computer Science Student | Cybersecurity | AI | Backend | Cloud
+### Computer Science Student | Security, Backend, Cloud and AI
 
 I'm a  Computer Science student at Babcock University with a strong interest in cybersecurity, AI , backend development, and cloud infrastructure.
 
@@ -32,7 +32,7 @@ Some of my work includes:
 
 I'm currently expanding my knowledge in:
 
-* Cybersecurity
+* Cybersecurity and AI
 * Backend development
 * Cloud infrastructure
 * Docker and DevSecOps
