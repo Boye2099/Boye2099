@@ -8,7 +8,7 @@ I enjoy building practical projects and learning through hands-on work. My curre
 
 ### Technical Skills
 
-* **Languages:** Python, Java
+* **Languages:** Python, Java, JavaScript
 * **Cybersecurity:** Network Security, Security Monitoring, Vulnerability Assessment
 * **Networking:** TCP/IP, DNS, Network Traffic Analysis, Nmap, Wireshark
 * **Systems:** Linux, Windows
