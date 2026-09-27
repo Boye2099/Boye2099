@@ -12,7 +12,7 @@ I enjoy building practical projects and learning through hands-on work. My curre
 * **Cybersecurity:** Network Security, Security Monitoring, Vulnerability Assessment
 * **Networking:** TCP/IP, DNS, Network Traffic Analysis, Nmap, Wireshark
 * **Systems:** Linux, Windows
-* **Backend:** Python, FastAPI, REST APIs
+* **Backend:** Python, FastAPI, REST APIs, PostgreSQL
 * **Infrastructure:** Docker, Cloud Technologies
 * **Tools:** Git, GitHub, VirtualBox
 
@@ -22,9 +22,9 @@ I use this profile to document projects, labs, and experiments related to cybers
 
 Some of my work includes:
 
+* AI Security Research 
 * Network traffic analysis and security monitoring
 * Python-based security tools and automation
-* Cybersecurity labs and practical exercises
 * Backend and API projects
 * Linux and Docker-based projects
 
