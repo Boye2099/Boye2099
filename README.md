@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Computer+Science+student+%40+Babcock+University;Breaking+things+to+understand+how+to+secure+them;Building+backends+and+Python+security+tools;Learning+cloud%2C+Docker+and+DevSecOps;Open+to+internships+and+technical+projects" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=Boye2099&color=00e5a0&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Boye2099?style=flat-square&color=203a43&label=FOLLOWERS)
-
 </div>
 
 ---
