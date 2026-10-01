@@ -1,45 +1,115 @@
-# Adeboye Moradeyo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adeboye%20Moradeyo&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20%C2%B7%20Backend%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=60&descSize=18" width="100%" alt="header" />
 
-### Computer Science Student | Security, Backend, Cloud and AI
+<div align="center">
 
-I'm a  Computer Science student at Babcock University with a strong interest in cybersecurity, AI , backend development, and cloud infrastructure.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Computer+Science+student+%40+Babcock+University;Breaking+things+to+understand+how+to+secure+them;Building+backends+and+Python+security+tools;Learning+cloud%2C+Docker+and+DevSecOps;Open+to+internships+and+technical+projects" alt="Typing SVG" />
+</a>
 
-I enjoy building practical projects and learning through hands-on work. My current focus is developing a solid foundation across security, systems, and software development while gaining experience with real-world technologies and workflows.
+<br/>
 
-### Technical Skills
+![Profile views](https://komarev.com/ghpvc/?username=Boye2099&color=00e5a0&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Boye2099?style=flat-square&color=203a43&label=FOLLOWERS)
 
-* **Languages:** Python, Java, JavaScript
-* **Cybersecurity:** Network Security, Security Monitoring, Vulnerability Assessment
-* **Networking:** TCP/IP, DNS, Network Traffic Analysis, Nmap, Wireshark
-* **Systems:** Linux, Windows
-* **Backend:** Python, FastAPI, REST APIs, PostgreSQL
-* **Infrastructure:** Docker, Cloud Technologies
-* **Tools:** Git, GitHub, VirtualBox
+</div>
 
-### Projects
+---
 
-I use this profile to document projects, labs, and experiments related to cybersecurity, AI , software development, and infrastructure.
+## 👋 About me
 
-Some of my work includes:
+I'm a Computer Science student at **Babcock University** with a big interest in **cybersecurity, AI, backend development, and cloud infrastructure**.
 
-* AI Security Research 
-* Network traffic analysis and security monitoring
-* Python-based security tools and automation
-* Backend and API projects
-* Linux and Docker-based projects
+I learn best by building. Most of what I know comes from labs, side projects, and experiments, and I'm working on a solid foundation across security, systems, and software development while getting comfortable with real-world tools and workflows.
 
-### Currently Learning
+```bash
+$ whoami
+adeboye_moradeyo
 
-I'm currently expanding my knowledge in:
+$ cat focus.txt
+security | backend | cloud | ai
 
-* Cybersecurity and AI
-* Backend development
-* Cloud infrastructure
-* Docker and DevSecOps
-* Security automation with Python
+$ status
+learning, building, breaking (in a lab), repeat
+```
 
-### Connect With Me
+---
 
-**LinkedIn:** [linkedin.com/in/adeboye-moradeyo/](https://linkedin.com/in/adeboye-moradeyo/)
+## 🛠️ Tech stack
 
-I'm open to internship opportunities, technical projects, and opportunities to learn and contribute to a team.
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+
+</div>
+
+| | |
+|---|---|
+| 🔐 **Cybersecurity** | Network security, security monitoring, vulnerability assessment |
+| 🌐 **Networking** | TCP/IP, DNS, network traffic analysis, Nmap, Wireshark |
+| ⚙️ **Backend** | Python, FastAPI, REST APIs, PostgreSQL |
+| ☁️ **Infrastructure** | Docker, cloud technologies |
+
+---
+
+## 🚀 What I work on
+
+This profile is where I document my projects, labs, and experiments across security, AI, software development, and infrastructure.
+
+- 🤖 **AI security research**
+- 📡 **Network traffic analysis** and security monitoring
+- 🐍 **Python security tools** and automation
+- 🔌 **Backend and API projects**
+- 🐳 **Linux and Docker** based projects
+
+---
+
+## 🌱 Currently learning
+
+- 🛡️ Cybersecurity and AI
+- 🧱 Backend development
+- ☁️ Cloud infrastructure
+- 🐳 Docker and DevSecOps
+- ⚡ Security automation with Python
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Boye2099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boye2099&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Boye2099&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 🤝 Let's connect
+
+I'm open to **internship opportunities**, technical projects, and chances to learn and contribute to a team.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adeboye--moradeyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeboye-moradeyo/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer" />
