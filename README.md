@@ -86,12 +86,12 @@ This profile is where I document my projects, labs, and experiments across secur
 
 <div align="center">
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boye2099&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Boye2099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600&v=2" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boye2099&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" alt="top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Boye2099&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Boye2099&theme=tokyonight&hide_border=true&v=2" alt="streak" />
 
 </div>
 
