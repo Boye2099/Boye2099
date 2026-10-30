@@ -120,9 +120,11 @@ across security, AI, software development, and infrastructure.
 
 <div align="center">
 
+<!--
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boye2099&layout=compact&bg_color=0f2027&title_color=00E5A0&text_color=c9d6df&hide_border=true&border_radius=12&cache_seconds=21600&v=2" alt="top languages" />
 
 <br/><br/>
+-->
 
 <img src="https://streak-stats.demolab.com?user=Boye2099&hide_border=true&border_radius=12&background=0f2027&ring=00E5A0&fire=00E5A0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5A0&sideLabels=c9d6df&dates=8aa1b1&v=2" alt="streak" />
 
